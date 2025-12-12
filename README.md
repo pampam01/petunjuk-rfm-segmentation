@@ -113,3 +113,6 @@ Then open `http://localhost:8000` in your browser.
 ---
 
 link github: https://github.com/pampam01/RFM-Dashboard-Complete-Final-10
+
+---
+dashboard: https://rfm-dashboard.vercel.app/
